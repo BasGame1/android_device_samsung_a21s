@@ -8,7 +8,7 @@ TARGET_SOC := exynos850
 TARGET_BOOTLOADER_BOARD_NAME := exynos850
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := a21s,a21sub
+TARGET_OTA_ASSERT_DEVICE := a21s,a21snsxx
 
 # Architecture
 TARGET_ARCH := arm64
